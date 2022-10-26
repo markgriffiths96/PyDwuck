@@ -1,0 +1,14 @@
+====================== Readme - Angular Distrubution Analysis ======================
+
+== Folders and files ==
+
+- Channel 1400+ analysis: Analysis of angular distribution of peaks with channel number higher than 1400 in the Re190 spectrum
+	
+	- Old Versions: Contains old spectra files with incorrect treatment of the spin of the beams along with analysis and data storage files
+	- Current versions: Same as the above, but spin of the beams has been treated correctly
+	
+- Fitting Programs: Programs for fitting the angular spectra
+
+	- Old versions: Contains old spectra and fitting files with incorrect treatment of the spin of the beams
+	- Current versions: Contains up and down spectra for each angle the Q3D was placed at, with analysis files
+

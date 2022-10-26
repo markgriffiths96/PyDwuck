@@ -1,0 +1,211 @@
+1********************DWUCK4 AT YOUR SERVICE********************
+
+ installed         Mon May 21 11:05:50 1990                
+ today is          Tue Jun 28 12:59:22 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    *******************************************************
+                    *                                                     *
+                    * User     : markgriffiths96                          *
+                    * Directory: <-nalysis/Angular Distribution Analysis/ *
+                    * Input    : Standard Input                           *
+                    * Output   : Standard Output                          *
+                    *                                                     *
+                    *******************************************************
+1
+0DWUCK4-DISTORTED WAVES U.COLORADO- PC-VERSION  12/Jan /1995
+ Elapsed time in seconds =*******
+ Elapsed time in seconds =*******
+0CONTROL INTEGERS
+  1 2 3 4 5 6 7 8 9 A B C D E F G H I J K    RUN IDENTIFICATION                                             0/00/00   0.00.00
+  1 0 0 1 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0    CA40(D,P)CA41  G.S. LZR      WITH PROTON SPIN ORBIT         
+ CA40(D,P)CA41  G.S. LZR      WITH PROTON SPIN ORBIT         
+ Adwck4 entered
+0ANGLE DATA          THETN=  51.0000   THET1=   5.0000   DTHET=   0.5000   A-ANG=   0.0000   B-ANG=   0.0000
+0CARD SET 3 DATA     LMAX =  99          LTR=   6
+                     NLTR =   1        2*JTR=   0
+0CARD SET 4 DATA     DRF  =   0.1000   RZ   =   0.0000   RMAX =  12.0000   VCE  =   0.0000   FNRNG=   0.4000
+ PARTICLE DATA 
+0PARTICLE 1*******************************************************************************************************************
+ INPUT DATA          ELAB =  18.0000   RC0  =   1.1500   AC   =   0.0000   2*STR=   2.0000
+                     MASSP=   2.0000   MASST= 192.0000   Q    =   0.0000
+                     ZP   =   1.0000   ZT   =  76.0000   PNLOC=   0.0000
+ 
+ DERIVED DATA        ECM  =  17.8144   RC   =   6.6343   RHO  =   8.6172
+                     K    =   1.2989   ETA  =   3.9896   DR   =   0.1000
+0POTENTIAL PARAMETERS
+ NX=1 VOLUME  W-S    V RL =-103.4000   R0RL =   1.1500   A RL =   0.8100   R RL =   6.6343   VSOR =   0.0000
+                     V IM =   0.0000   R0IM =   0.0000   A IM =   0.0000   R IM =   0.0000   VSOI =   0.0000   POWR =   0.0000
+ NX=2 SURFACE W-S    V RL =   0.0000   R0RL =   0.0000   A RL =   0.0000   R RL =   0.0000   VSOR =   0.0000
+                     V IM = -18.7000   R0IM =   1.3400   A IM =   0.6800   R IM =   7.7305   VSOI =   0.0000   POWR =   0.0000
+0PARTICLE 2*******************************************************************************************************************
+ INPUT DATA          ELAB =  28.8697   RC0  =   1.4000   AC   =   0.0000   2*STR=   0.0000
+                     MASSP=   4.0000   MASST= 190.0000   Q    =  10.4600
+                     ZP   =   2.0000   ZT   =  75.0000   PNLOC=   0.0000
+ 
+ DERIVED DATA        ECM  =  28.2744   RC   =   8.0485   RHO  =  18.5282
+                     K    =   2.3021   ETA  =   8.7931   DR   =   0.1011
+0POTENTIAL PARAMETERS
+ NX=1 VOLUME  W-S    V RL =-185.0000   R0RL =   1.4000   A RL =   0.5200   R RL =   8.0485   VSOR =   0.0000
+                     V IM = -25.0000   R0IM =   1.4000   A IM =   0.5200   R IM =   8.0485   VSOI =   0.0000   POWR =   0.0000
+ NX=2 SURFACE W-S    V RL =   0.0000   R0RL =   0.0000   A RL =   0.0000   R RL =   0.0000   VSOR =   0.0000
+                     V IM =   0.0000   R0IM =   0.0000   A IM =   0.0000   R IM =   0.0000   VSOI =   0.0000   POWR =   0.0000
+1CA40(D,P)CA41  G.S. LZR      WITH PROTON SPIN ORBIT            0/ 0/ 0
+0FORM FACTOR DATA 
+0PARTICLE 3*******************************************************************************************************************
+ INPUT DATA          ELAB = -12.9560   RC0  =   1.1500   AC   =   0.0000   2*STR=   2.0000
+                     MASSP=   2.0000   MASST= 190.0000   Q    = -12.9560
+                     ZP   =   1.0000   ZT   =  75.0000   PNLOC=   0.5400
+ 
+ DERIVED DATA        ECM  = -12.9560   RC   =   6.6112   RHO  =   7.3228
+                     K    =   1.1076   ETA  =   4.6164   DR   =   0.1011
+0POTENTIAL PARAMETERS
+ NX=1 VOLUME  W-S    V RL = -97.0000   R0RL =   1.1500   A RL =   0.7900   R RL =   6.6112   VSOR =   0.0000
+                     V IM =  -1.9000   R0IM =   1.3600   A IM =   0.2800   R IM =   7.8185   VSOI =   0.0000   POWR =   0.0000
+ NX=2 SURFACE W-S    V RL =   0.0000   R0RL =   0.0000   A RL =   0.0000   R RL =   0.0000   VSOR =   0.0000
+                     V IM = -10.4000   R0IM =   1.3200   A IM =   0.8900   R IM =   7.5885   VSOI =   0.0000   POWR =   0.0000
+ 
+                     NODES=   1.0000   L    =   3.0000   2*J  =   6.0000   2*S  =   2.0000   FISW =   0.0000
+ 
+                     V    =   0.6358   DET  =  -0.0000   NODES=   1.0000   RM   =   6.5179   E    = -12.9560   ITER.=   8
+0                    LMAX =  27        NSTEP= 178        NLTR =   1
+ Bdwck4 entered
+   Subroutine INTEG  entered
+0REACSIG 1  -8.68360E+02                                             REACSIG 2   1.14178E+02
+   Subroutine RADINT entered
+1CA40(D,P)CA41  G.S. LZR      WITH PROTON SPIN ORBIT            0/00/00
+0BASIC DATA          DR   =   0.1000   RMIN =   0.0000   RMAX =  17.8000   COUEX=   0.0000     IS1=   1.0000
+                     FNRNG=   0.4000   PNLC1=   0.0000   PNLC2=   0.0000   PNLC3=   0.5400     IS2=   0.0000
+ ANG MOM TRANSFER    LTR  =   6.       2*JTR=   0.       2*STR=   2.       Q    =  10.4600
+   Subroutine INSIG  entered
+0 Theta Inelsig,fm**2      Polz       Asy       Ayy       A22       A21       A20       T22       T21       T20  Theta
+   5.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   5.00
+   5.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   5.50
+   6.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   6.00
+   6.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   6.50
+   7.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   7.00
+   7.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   7.50
+   8.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   8.00
+   8.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   8.50
+   9.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   9.00
+   9.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN   9.50
+  10.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  10.00
+  10.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  10.50
+  11.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  11.00
+  11.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  11.50
+  12.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  12.00
+  12.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  12.50
+  13.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  13.00
+  13.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  13.50
+  14.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  14.00
+  14.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  14.50
+  15.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  15.00
+  15.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  15.50
+  16.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  16.00
+  16.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  16.50
+  17.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  17.00
+  17.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  17.50
+  18.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  18.00
+  18.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  18.50
+  19.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  19.00
+  19.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  19.50
+  20.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  20.00
+  20.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  20.50
+  21.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  21.00
+  21.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  21.50
+  22.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  22.00
+  22.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  22.50
+  23.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  23.00
+  23.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  23.50
+  24.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  24.00
+  24.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  24.50
+  25.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  25.00
+  25.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  25.50
+  26.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  26.00
+  26.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  26.50
+  27.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  27.00
+  27.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  27.50
+  28.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  28.00
+  28.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  28.50
+  29.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  29.00
+  29.50    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  29.50
+  30.00    0.0000E+00       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN  30.00
+0Tot-sig   0.0000E+00
+1Inelastic  CA40(D,P)CA41  G.S. LZR      WITH PROTON SPIN ORBIT            0/00/00
+    THETA -23                              -22                              -21                              -20   THETA cos(theta)
+     5.00  |++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++*+    5.00    0.9962
+     5.50  +                                                                                                  *+    5.50    0.9954
+     6.00  +                                                                                                  *+    6.00    0.9945
+     6.50  +                                                                                                  *+    6.50    0.9936
+     7.00  +                                                                                                  *+    7.00    0.9925
+     7.50  +                                                                                                  *+    7.50    0.9914
+     8.00  +                                                                                                  *+    8.00    0.9903
+     8.50  +                                                                                                  *+    8.50    0.9890
+     9.00  +                                                                                                  *+    9.00    0.9877
+     9.50  +                                                                                                  *+    9.50    0.9863
+    10.00  +                                                                                                  *+   10.00    0.9848
+    10.50  +                                                                                                  *+   10.50    0.9833
+    11.00  +                                                                                                  *+   11.00    0.9816
+    11.50  +                                                                                                  *+   11.50    0.9799
+    12.00  +                                                                                                  *+   12.00    0.9781
+    12.50  +                                                                                                  *+   12.50    0.9763
+    13.00  +                                                                                                  *+   13.00    0.9744
+    13.50  +                                                                                                  *+   13.50    0.9724
+    14.00  +                                                                                                  *+   14.00    0.9703
+    14.50  +                                                                                                  *+   14.50    0.9681
+    15.00  +                                                                                                  *+   15.00    0.9659
+    15.50  +                                                                                                  *+   15.50    0.9636
+    16.00  +                                                                                                  *+   16.00    0.9613
+    16.50  +                                                                                                  *+   16.50    0.9588
+    17.00  +                                                                                                  *+   17.00    0.9563
+    17.50  +                                                                                                  *+   17.50    0.9537
+    18.00  +                                                                                                  *+   18.00    0.9511
+    18.50  +                                                                                                  *+   18.50    0.9483
+    19.00  +                                                                                                  *+   19.00    0.9455
+    19.50  +                                                                                                  *+   19.50    0.9426
+    20.00  +                                                                                                  *+   20.00    0.9397
+    20.50  +                                                                                                  *+   20.50    0.9367
+    21.00  +                                                                                                  *+   21.00    0.9336
+    21.50  +                                                                                                  *+   21.50    0.9304
+    22.00  +                                                                                                  *+   22.00    0.9272
+    22.50  +                                                                                                  *+   22.50    0.9239
+    23.00  +                                                                                                  *+   23.00    0.9205
+    23.50  +                                                                                                  *+   23.50    0.9171
+    24.00  +                                                                                                  *+   24.00    0.9135
+    24.50  +                                                                                                  *+   24.50    0.9100
+    25.00  +                                                                                                  *+   25.00    0.9063
+    25.50  +                                                                                                  *+   25.50    0.9026
+    26.00  +                                                                                                  *+   26.00    0.8988
+    26.50  +                                                                                                  *+   26.50    0.8949
+    27.00  +                                                                                                  *+   27.00    0.8910
+    27.50  +                                                                                                  *+   27.50    0.8870
+    28.00  +                                                                                                  *+   28.00    0.8829
+    28.50  +                                                                                                  *+   28.50    0.8788
+    29.00  +                                                                                                  *+   29.00    0.8746
+    29.50  +                                                                                                  *+   29.50    0.8704
+    30.00  |++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++*+   30.00    0.8660
+    THETA -23                              -22                              -21                              -20   THETA cos(theta)
+1DWUCK4-DISTORTED WAVES U.COLORADO- PC-VERSION  12/Jan /1995
+ Elapsed time in seconds =*******
+ Elapsed time in seconds =*******
+0CONTROL INTEGERS
+  1 2 3 4 5 6 7 8 9 A B C D E F G H I J K    RUN IDENTIFICATION                                             0/00/00   0.00.00
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0     END OF DATA  DWUCK4                                        
